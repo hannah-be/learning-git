@@ -5,7 +5,16 @@ body {
 
 }
 
-img {
+p {
+  font-size: 20px;
+}
+
+img.logo {
+  max-width: 100px;
+  height: auto;
+}
+
+img.cheatsheet {
   max-width: 100%;
   height: auto;
 }
